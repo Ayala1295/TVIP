@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="CARICATURAS", Canal 26
+#EXTINF:-1 group-title="CARICATURAS",Canal 26
 http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/17420.m3u8
+
 #EXTINF:-1,24/7 Chespirito
 http://iptv.wtf:8080/live/fzbuflli/72T5q3jvFy/17417.m3u8
 #EXTINF:-1,24/7 Coraje el perro cobarde
